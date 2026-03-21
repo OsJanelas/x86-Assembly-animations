@@ -1,0 +1,10 @@
+nasm -f bin Source/art.asm -o binaries/art.bin
+nasm -f bin Source/aurora.asm -o binaries/aurora.bin
+nasm -f bin Source/formule.asm -o binaries/formule.bin
+nasm -f bin Source/julia.asm -o binaries/julia.bin
+nasm -f bin Source/plasma.asm -o binaries/plasma.bin
+nasm -f bin Source/sierspinki2.asm -o binaries/sierspinski2.bin
+nasm -f bin Source/sierspinski.asm -o binaries/sierspinski.bin
+nasm -f bin Source/static.asm -o binaries/static.bin
+nasm -f bin Source/xor.asm -o binaries/xor.bin
+nasm -f bin Source/null.asm -o binaries/null.bin
