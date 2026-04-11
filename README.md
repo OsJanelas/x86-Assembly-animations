@@ -3,7 +3,7 @@
 Some Assembly animations to use in OS or Bootsectors
 
 ## CREDITS
-ArTicZera for plasma effect
+ArTicZera for plasma and cube effect
 
 https://github.com/ArTicZera
 
